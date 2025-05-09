@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React NOW - sandbox!!!
+          Learn React NOW - sandbox!!
         </a>
       </header>
     </div>
